@@ -1,0 +1,14 @@
+{
+  "name": "VPN Proxy Browser",
+  "description": "Bypass restrictions using 20+ proxy services",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "Adil",
+    "url": "https://github.com/yourusername"
+  },
+  "default_locale": "en",
+  "type": "web"
+}
